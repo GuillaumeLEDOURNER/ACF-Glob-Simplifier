@@ -1,0 +1,7 @@
+2020.10.13 14:50:46 INFO  started: Metals version 0.9.4 in workspace '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF' for client vscode.
+2020.10.13 14:50:47 INFO  time: initialize in 0.6s
+2020.10.13 14:51:06 INFO  no build target: using presentation compiler with only scala-library
+2020.10.13 14:51:06 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/LE_NOM_DE_VOTRE_BINOME/Simplify.scala
+2020.10.13 14:51:06 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/main/Application.scala
+2020.10.13 14:51:19 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/library/Types.scala
+2020.10.13 14:51:22 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/main/Application.scala

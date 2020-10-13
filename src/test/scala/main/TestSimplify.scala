@@ -3,7 +3,7 @@ package main
 import library._
 import org.junit.Assert._
 import org.junit.Test
-import simplifier.LE_NOM_DE_VOTRE_BINOME._
+import simplifier.Le_Dourner_Le_Gal._
 
 class TestSimplify {
   @Test

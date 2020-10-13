@@ -288,3 +288,17 @@ java.lang.StringIndexOutOfBoundsException: String index out of range: -2
 2020.10.13 16:38:41 WARN  code navigation does not work for the file '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/test/scala/main/TestSimplify.scala' because it doesn't belong to a build target.
 2020.10.13 16:38:41 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/test/scala/main/TestSimplify.scala
 2020.10.13 16:41:41 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/test/scala/main/TestSimplify.scala
+2020.10.13 16:43:29 WARN  code navigation does not work for the file '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/test/scala/main/TestSimplify.scala' because it doesn't belong to a build target.
+2020.10.13 16:43:29 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/test/scala/main/TestSimplify.scala
+2020.10.13 16:43:33 WARN  code navigation does not work for the file '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/LE_NOM_DE_VOTRE_BINOME/Simplify.scala' because it doesn't belong to a build target.
+2020.10.13 16:43:35 WARN  code navigation does not work for the file '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/LE_NOM_DE_VOTRE_BINOME/Simplify.scala' because it doesn't belong to a build target.
+2020.10.13 16:43:35 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/LE_NOM_DE_VOTRE_BINOME/Simplify.scala
+2020.10.13 16:43:37 WARN  code navigation does not work for the file '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/main/Application.scala' because it doesn't belong to a build target.
+2020.10.13 16:43:38 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/main/Application.scala
+2020.10.13 16:43:51 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/Le_Dourner_Le_Gal/Simplify.scala
+2020.10.13 16:44:03 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/library/Converter.scala
+2020.10.13 16:44:16 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/test/scala/main/TestSimplify.scala
+2020.10.13 16:44:29 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/test/scala/main/TestSimplify.scala
+2020.10.13 16:44:31 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/library/Converter.scala
+2020.10.13 16:44:32 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/Le_Dourner_Le_Gal/Simplify.scala
+2020.10.13 16:44:32 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/main/Application.scala

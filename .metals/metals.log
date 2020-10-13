@@ -5,3 +5,209 @@
 2020.10.13 14:51:06 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/main/Application.scala
 2020.10.13 14:51:19 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/library/Types.scala
 2020.10.13 14:51:22 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/main/Application.scala
+2020.10.13 15:03:33 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/LE_NOM_DE_VOTRE_BINOME/Simplify.scala
+something's wrong: no file:///private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/LE_NOM_DE_VOTRE_BINOME/Simplify.scala in List[Symbol]RangePosition(file:///private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/LE_NOM_DE_VOTRE_BINOME/Simplify.scala, 117, 117, 129)
+2020.10.13 15:17:31 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/library/Converter.scala
+2020.10.13 15:17:42 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/LE_NOM_DE_VOTRE_BINOME/Simplify.scala
+2020.10.13 15:17:47 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/test/scala/main/TestSimplify.scala
+2020.10.13 15:20:12 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/LE_NOM_DE_VOTRE_BINOME/Simplify.scala
+2020.10.13 15:21:34 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/LE_NOM_DE_VOTRE_BINOME/Simplify.scala
+2020.10.13 15:22:38 INFO  shutting down Metals
+2020.10.13 15:22:52 INFO  started: Metals version 0.9.4 in workspace '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF' for client vscode.
+2020.10.13 15:22:52 INFO  time: initialize in 0.59s
+2020.10.13 15:22:53 INFO  skipping build import with status 'Requested'
+2020.10.13 15:22:55 INFO  no build target: using presentation compiler with only scala-library
+2020.10.13 15:22:55 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/LE_NOM_DE_VOTRE_BINOME/Simplify.scala
+2020.10.13 15:26:38 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/LE_NOM_DE_VOTRE_BINOME/Simplify.scala
+something's wrong: no file:///private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/LE_NOM_DE_VOTRE_BINOME/Simplify.scala in List[Symbol]RangePosition(file:///private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/LE_NOM_DE_VOTRE_BINOME/Simplify.scala, 117, 117, 129)
+2020.10.13 15:32:16 WARN  code navigation does not work for the file '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/LE_NOM_DE_VOTRE_BINOME/Simplify.scala' because it doesn't belong to a build target.
+2020.10.13 15:32:16 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/LE_NOM_DE_VOTRE_BINOME/Simplify.scala
+2020.10.13 15:32:19 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/library/Types.scala
+2020.10.13 15:36:13 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/LE_NOM_DE_VOTRE_BINOME/Simplify.scala
+2020.10.13 15:36:33 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/LE_NOM_DE_VOTRE_BINOME/Simplify.scala
+2020.10.13 15:42:27 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/LE_NOM_DE_VOTRE_BINOME/Simplify.scala
+2020.10.13 15:45:13 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/LE_NOM_DE_VOTRE_BINOME/Simplify.scala
+2020.10.13 15:45:26 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/LE_NOM_DE_VOTRE_BINOME/Simplify.scala
+2020.10.13 15:47:16 WARN  code navigation does not work for the file '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/LE_NOM_DE_VOTRE_BINOME/Simplify.scala' because it doesn't belong to a build target.
+2020.10.13 15:47:16 WARN  code navigation does not work for the file '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/LE_NOM_DE_VOTRE_BINOME/Simplify.scala' because it doesn't belong to a build target.
+2020.10.13 15:47:17 WARN  code navigation does not work for the file '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/LE_NOM_DE_VOTRE_BINOME/Simplify.scala' because it doesn't belong to a build target.
+2020.10.13 15:47:34 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/LE_NOM_DE_VOTRE_BINOME/Simplify.scala
+2020.10.13 15:47:48 WARN  code navigation does not work for the file '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/LE_NOM_DE_VOTRE_BINOME/Simplify.scala' because it doesn't belong to a build target.
+2020.10.13 15:48:08 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/LE_NOM_DE_VOTRE_BINOME/Simplify.scala
+2020.10.13 15:48:14 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/LE_NOM_DE_VOTRE_BINOME/Simplify.scala
+2020.10.13 15:48:35 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/LE_NOM_DE_VOTRE_BINOME/Simplify.scala
+2020.10.13 15:49:35 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/LE_NOM_DE_VOTRE_BINOME/Simplify.scala
+2020.10.13 15:49:45 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/test/scala/main/TestSimplify.scala
+2020.10.13 15:50:11 WARN  code navigation does not work for the file '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/LE_NOM_DE_VOTRE_BINOME/Simplify.scala' because it doesn't belong to a build target.
+2020.10.13 15:50:11 WARN  code navigation does not work for the file '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/LE_NOM_DE_VOTRE_BINOME/Simplify.scala' because it doesn't belong to a build target.
+2020.10.13 15:50:13 WARN  code navigation does not work for the file '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/LE_NOM_DE_VOTRE_BINOME/Simplify.scala' because it doesn't belong to a build target.
+2020.10.13 15:50:13 WARN  code navigation does not work for the file '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/LE_NOM_DE_VOTRE_BINOME/Simplify.scala' because it doesn't belong to a build target.
+2020.10.13 15:50:14 WARN  code navigation does not work for the file '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/LE_NOM_DE_VOTRE_BINOME/Simplify.scala' because it doesn't belong to a build target.
+2020.10.13 15:50:14 WARN  code navigation does not work for the file '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/LE_NOM_DE_VOTRE_BINOME/Simplify.scala' because it doesn't belong to a build target.
+2020.10.13 15:50:14 WARN  code navigation does not work for the file '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/LE_NOM_DE_VOTRE_BINOME/Simplify.scala' because it doesn't belong to a build target.
+2020.10.13 15:50:16 WARN  code navigation does not work for the file '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/LE_NOM_DE_VOTRE_BINOME/Simplify.scala' because it doesn't belong to a build target.
+2020.10.13 15:50:16 WARN  code navigation does not work for the file '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/LE_NOM_DE_VOTRE_BINOME/Simplify.scala' because it doesn't belong to a build target.
+2020.10.13 15:50:16 WARN  code navigation does not work for the file '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/LE_NOM_DE_VOTRE_BINOME/Simplify.scala' because it doesn't belong to a build target.
+2020.10.13 15:50:16 WARN  code navigation does not work for the file '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/LE_NOM_DE_VOTRE_BINOME/Simplify.scala' because it doesn't belong to a build target.
+2020.10.13 15:50:16 WARN  code navigation does not work for the file '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/LE_NOM_DE_VOTRE_BINOME/Simplify.scala' because it doesn't belong to a build target.
+2020.10.13 15:50:19 WARN  code navigation does not work for the file '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/LE_NOM_DE_VOTRE_BINOME/Simplify.scala' because it doesn't belong to a build target.
+2020.10.13 15:50:19 WARN  code navigation does not work for the file '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/LE_NOM_DE_VOTRE_BINOME/Simplify.scala' because it doesn't belong to a build target.
+2020.10.13 15:50:19 WARN  code navigation does not work for the file '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/LE_NOM_DE_VOTRE_BINOME/Simplify.scala' because it doesn't belong to a build target.
+2020.10.13 15:50:19 WARN  code navigation does not work for the file '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/LE_NOM_DE_VOTRE_BINOME/Simplify.scala' because it doesn't belong to a build target.
+2020.10.13 15:50:19 WARN  code navigation does not work for the file '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/LE_NOM_DE_VOTRE_BINOME/Simplify.scala' because it doesn't belong to a build target.
+2020.10.13 15:50:21 WARN  code navigation does not work for the file '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/LE_NOM_DE_VOTRE_BINOME/Simplify.scala' because it doesn't belong to a build target.
+2020.10.13 15:50:21 WARN  code navigation does not work for the file '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/LE_NOM_DE_VOTRE_BINOME/Simplify.scala' because it doesn't belong to a build target.
+2020.10.13 15:50:21 WARN  code navigation does not work for the file '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/LE_NOM_DE_VOTRE_BINOME/Simplify.scala' because it doesn't belong to a build target.
+2020.10.13 15:50:23 WARN  code navigation does not work for the file '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/LE_NOM_DE_VOTRE_BINOME/Simplify.scala' because it doesn't belong to a build target.
+2020.10.13 15:50:23 WARN  code navigation does not work for the file '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/LE_NOM_DE_VOTRE_BINOME/Simplify.scala' because it doesn't belong to a build target.
+2020.10.13 15:50:24 WARN  code navigation does not work for the file '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/LE_NOM_DE_VOTRE_BINOME/Simplify.scala' because it doesn't belong to a build target.
+2020.10.13 15:50:25 WARN  code navigation does not work for the file '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/LE_NOM_DE_VOTRE_BINOME/Simplify.scala' because it doesn't belong to a build target.
+2020.10.13 15:50:25 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/LE_NOM_DE_VOTRE_BINOME/Simplify.scala
+2020.10.13 15:51:08 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/LE_NOM_DE_VOTRE_BINOME/Simplify.scala
+2020.10.13 15:52:13 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/LE_NOM_DE_VOTRE_BINOME/Simplify.scala
+2020.10.13 15:53:58 WARN  code navigation does not work for the file '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/LE_NOM_DE_VOTRE_BINOME/Simplify.scala' because it doesn't belong to a build target.
+2020.10.13 15:54:02 WARN  code navigation does not work for the file '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/LE_NOM_DE_VOTRE_BINOME/Simplify.scala' because it doesn't belong to a build target.
+2020.10.13 15:54:16 WARN  code navigation does not work for the file '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/LE_NOM_DE_VOTRE_BINOME/Simplify.scala' because it doesn't belong to a build target.
+2020.10.13 15:54:22 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/LE_NOM_DE_VOTRE_BINOME/Simplify.scala
+2020.10.13 15:55:36 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/main/Application.scala
+oct. 13, 2020 3:56:20 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFOS: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+oct. 13, 2020 3:56:20 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: null
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:417)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:138)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:113)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:102)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:156)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:959)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:807)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:23)
+
+2020.10.13 15:57:42 WARN  code navigation does not work for the file '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/test/scala/main/TestSimplify.scala' because it doesn't belong to a build target.
+2020.10.13 15:57:42 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/test/scala/main/TestSimplify.scala
+2020.10.13 15:59:12 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/test/scala/main/TestSimplify.scala
+2020.10.13 15:59:48 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/test/scala/main/TestSimplify.scala
+2020.10.13 15:59:57 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/test/scala/main/TestSimplify.scala
+2020.10.13 16:00:11 WARN  code navigation does not work for the file '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/test/scala/main/TestSimplify.scala' because it doesn't belong to a build target.
+2020.10.13 16:00:11 WARN  code navigation does not work for the file '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/test/scala/main/TestSimplify.scala' because it doesn't belong to a build target.
+2020.10.13 16:00:12 WARN  code navigation does not work for the file '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/test/scala/main/TestSimplify.scala' because it doesn't belong to a build target.
+2020.10.13 16:00:12 WARN  code navigation does not work for the file '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/test/scala/main/TestSimplify.scala' because it doesn't belong to a build target.
+2020.10.13 16:00:12 WARN  code navigation does not work for the file '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/test/scala/main/TestSimplify.scala' because it doesn't belong to a build target.
+2020.10.13 16:00:12 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/test/scala/main/TestSimplify.scala
+2020.10.13 16:00:12 WARN  code navigation does not work for the file '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/test/scala/main/TestSimplify.scala' because it doesn't belong to a build target.
+2020.10.13 16:00:12 WARN  code navigation does not work for the file '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/test/scala/main/TestSimplify.scala' because it doesn't belong to a build target.
+2020.10.13 16:01:03 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/test/scala/main/TestSimplify.scala
+2020.10.13 16:02:04 WARN  code navigation does not work for the file '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/test/scala/main/TestSimplify.scala' because it doesn't belong to a build target.
+2020.10.13 16:02:04 WARN  code navigation does not work for the file '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/test/scala/main/TestSimplify.scala' because it doesn't belong to a build target.
+2020.10.13 16:02:10 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/test/scala/main/TestSimplify.scala
+2020.10.13 16:02:17 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/test/scala/main/TestSimplify.scala
+2020.10.13 16:02:47 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/test/scala/main/TestSimplify.scala
+2020.10.13 16:02:56 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/test/scala/main/TestSimplify.scala
+2020.10.13 16:02:56 WARN  code navigation does not work for the file '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/test/scala/main/TestSimplify.scala' because it doesn't belong to a build target.
+2020.10.13 16:03:15 WARN  code navigation does not work for the file '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/test/scala/main/TestSimplify.scala' because it doesn't belong to a build target.
+2020.10.13 16:03:15 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/library/Types.scala
+2020.10.13 16:03:17 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/test/scala/main/TestSimplify.scala
+2020.10.13 16:03:27 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/test/scala/main/TestSimplify.scala
+2020.10.13 16:04:14 WARN  code navigation does not work for the file '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/test/scala/main/TestSimplify.scala' because it doesn't belong to a build target.
+2020.10.13 16:04:14 WARN  code navigation does not work for the file '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/test/scala/main/TestSimplify.scala' because it doesn't belong to a build target.
+2020.10.13 16:04:16 WARN  code navigation does not work for the file '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/test/scala/main/TestSimplify.scala' because it doesn't belong to a build target.
+2020.10.13 16:04:19 WARN  code navigation does not work for the file '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/test/scala/main/TestSimplify.scala' because it doesn't belong to a build target.
+2020.10.13 16:04:19 WARN  code navigation does not work for the file '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/test/scala/main/TestSimplify.scala' because it doesn't belong to a build target.
+2020.10.13 16:04:19 WARN  code navigation does not work for the file '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/test/scala/main/TestSimplify.scala' because it doesn't belong to a build target.
+2020.10.13 16:04:20 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/test/scala/main/TestSimplify.scala
+oct. 13, 2020 4:07:58 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: String index out of range: -2
+java.lang.StringIndexOutOfBoundsException: String index out of range: -2
+	at java.lang.String.<init>(String.java:196)
+	at scala.tools.nsc.interactive.Global.typeCompletions$1(Global.scala:1230)
+	at scala.tools.nsc.interactive.Global.completionsAt(Global.scala:1253)
+	at scala.meta.internal.pc.SignatureHelpProvider.$anonfun$treeSymbol$1(SignatureHelpProvider.scala:376)
+	at scala.Option.map(Option.scala:230)
+	at scala.meta.internal.pc.SignatureHelpProvider.treeSymbol(SignatureHelpProvider.scala:374)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCall$.unapply(SignatureHelpProvider.scala:199)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:310)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:304)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.$anonfun$visit$5(SignatureHelpProvider.scala:340)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.$anonfun$visit$5$adapted(SignatureHelpProvider.scala:317)
+	at scala.collection.TraversableLike$WithFilter.$anonfun$foreach$1(TraversableLike.scala:924)
+	at scala.collection.immutable.List.foreach(List.scala:431)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:923)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.$anonfun$visit$3(SignatureHelpProvider.scala:317)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.$anonfun$visit$3$adapted(SignatureHelpProvider.scala:316)
+	at scala.collection.TraversableLike$WithFilter.$anonfun$foreach$1(TraversableLike.scala:924)
+	at scala.collection.immutable.List.foreach(List.scala:431)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:923)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:316)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:304)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.fromTree(SignatureHelpProvider.scala:273)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:27)
+
+oct. 13, 2020 4:08:51 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: String index out of range: -2
+java.lang.StringIndexOutOfBoundsException: String index out of range: -2
+	at java.lang.String.<init>(String.java:196)
+	at scala.tools.nsc.interactive.Global.typeCompletions$1(Global.scala:1230)
+	at scala.tools.nsc.interactive.Global.completionsAt(Global.scala:1253)
+	at scala.meta.internal.pc.SignatureHelpProvider.$anonfun$treeSymbol$1(SignatureHelpProvider.scala:376)
+	at scala.Option.map(Option.scala:230)
+	at scala.meta.internal.pc.SignatureHelpProvider.treeSymbol(SignatureHelpProvider.scala:374)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCall$.unapply(SignatureHelpProvider.scala:199)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:310)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:304)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.$anonfun$visit$5(SignatureHelpProvider.scala:340)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.$anonfun$visit$5$adapted(SignatureHelpProvider.scala:317)
+	at scala.collection.TraversableLike$WithFilter.$anonfun$foreach$1(TraversableLike.scala:924)
+	at scala.collection.immutable.List.foreach(List.scala:431)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:923)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.$anonfun$visit$3(SignatureHelpProvider.scala:317)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.$anonfun$visit$3$adapted(SignatureHelpProvider.scala:316)
+	at scala.collection.TraversableLike$WithFilter.$anonfun$foreach$1(TraversableLike.scala:924)
+	at scala.collection.immutable.List.foreach(List.scala:431)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:923)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:316)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:304)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.fromTree(SignatureHelpProvider.scala:273)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:27)
+
+2020.10.13 16:09:22 WARN  code navigation does not work for the file '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/simplifier/LE_NOM_DE_VOTRE_BINOME/Simplify.scala' because it doesn't belong to a build target.
+oct. 13, 2020 4:10:37 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: String index out of range: -2
+java.lang.StringIndexOutOfBoundsException: String index out of range: -2
+	at java.lang.String.<init>(String.java:196)
+	at scala.tools.nsc.interactive.Global.typeCompletions$1(Global.scala:1230)
+	at scala.tools.nsc.interactive.Global.completionsAt(Global.scala:1253)
+	at scala.meta.internal.pc.SignatureHelpProvider.$anonfun$treeSymbol$1(SignatureHelpProvider.scala:376)
+	at scala.Option.map(Option.scala:230)
+	at scala.meta.internal.pc.SignatureHelpProvider.treeSymbol(SignatureHelpProvider.scala:374)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCall$.unapply(SignatureHelpProvider.scala:199)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:310)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:304)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.$anonfun$visit$5(SignatureHelpProvider.scala:340)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.$anonfun$visit$5$adapted(SignatureHelpProvider.scala:317)
+	at scala.collection.TraversableLike$WithFilter.$anonfun$foreach$1(TraversableLike.scala:924)
+	at scala.collection.immutable.List.foreach(List.scala:431)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:923)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.$anonfun$visit$3(SignatureHelpProvider.scala:317)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.$anonfun$visit$3$adapted(SignatureHelpProvider.scala:316)
+	at scala.collection.TraversableLike$WithFilter.$anonfun$foreach$1(TraversableLike.scala:924)
+	at scala.collection.immutable.List.foreach(List.scala:431)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:923)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:316)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:304)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.fromTree(SignatureHelpProvider.scala:273)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:27)
+
+2020.10.13 16:13:30 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/test/scala/main/TestSimplify.scala
+2020.10.13 16:14:31 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/test/scala/main/TestSimplify.scala
+2020.10.13 16:15:28 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/main/Application.scala
+2020.10.13 16:15:58 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/main/scala/main/Application.scala
+2020.10.13 16:17:01 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/test/scala/main/TestSimplify.scala
+2020.10.13 16:17:43 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/test/scala/main/TestSimplify.scala
+2020.10.13 16:18:02 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/test/scala/main/TestSimplify.scala
+2020.10.13 16:18:14 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/test/scala/main/TestSimplify.scala
+2020.10.13 16:18:55 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/test/scala/main/TestSimplify.scala
+2020.10.13 16:18:58 WARN  code navigation does not work for the file '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/test/scala/main/TestSimplify.scala' because it doesn't belong to a build target.
+2020.10.13 16:18:58 WARN  code navigation does not work for the file '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/test/scala/main/TestSimplify.scala' because it doesn't belong to a build target.
+2020.10.13 16:19:00 WARN  code navigation does not work for the file '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/test/scala/main/TestSimplify.scala' because it doesn't belong to a build target.
+2020.10.13 16:19:03 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/test/scala/main/TestSimplify.scala

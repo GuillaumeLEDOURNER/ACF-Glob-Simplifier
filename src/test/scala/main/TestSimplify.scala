@@ -179,5 +179,13 @@ class TestSimplify {
     assertEquals(pres, simp.simplify(p))
   }
 
+  @Test 
+  def t2_04(){
+    val simp = new MySimplifier
+    var p = List(Star,Star,Star,Star,Star,Char('a'),Star,Star,Star,Star,Star)
+    var pres = List(Star,Char('a'),Star)
+    assertEquals(pres, simp.simplify(p))
+  }
+
 
 }

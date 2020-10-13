@@ -287,3 +287,4 @@ java.lang.StringIndexOutOfBoundsException: String index out of range: -2
 2020.10.13 16:38:41 WARN  code navigation does not work for the file '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/test/scala/main/TestSimplify.scala' because it doesn't belong to a build target.
 2020.10.13 16:38:41 WARN  code navigation does not work for the file '/private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/test/scala/main/TestSimplify.scala' because it doesn't belong to a build target.
 2020.10.13 16:38:41 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/test/scala/main/TestSimplify.scala
+2020.10.13 16:41:41 WARN  no build target for: /private/student/l/al/ellegal/Documents/ACF/TP5_ACF/src/test/scala/main/TestSimplify.scala
